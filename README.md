@@ -1,3 +1,3 @@
 # xpaxos
-Python Implementation for XPaxos
-Composable
+Composable Python Implementation for XPaxos
+
